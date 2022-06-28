@@ -7,7 +7,7 @@
 > - setting a fake reminder when you double click on a task (green left border);
 > - using HttpClientModule, FormsModule, AppRoutingModule;
 
-## 🔗 Here are some previews:
+### 🔗 Here are some previews:
 
 ![Default](https://i.imgur.com/x3Rc4AV.png)
 
